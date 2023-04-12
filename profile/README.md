@@ -12,6 +12,8 @@
 🍿 Some of the documents are being implemented in the process
 
 🧙 Remember, you can get us in socials:
-
-<img src="https://img.icons8.com/windows/512/telegram-app.png" />
+<a href="https://instagram.com/shieldenergy_uz">Instagram</a>
+<a href="https://shieldenergy.t.me/">Telegram</a>
+and
+<a href="mailto:info@shieldenergy.uz">Email</a>
 
