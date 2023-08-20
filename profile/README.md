@@ -1,5 +1,5 @@
 ## Hey, this is us 👋
-![image](https://user-images.githubusercontent.com/71864316/231475808-ec562984-6061-452e-a733-218595484cc8.png)
+![logo](https://github.com/shieldenergy/.github/assets/71864316/2adea96f-6c8c-43db-8fc1-12fdd7fa6054)
 
 
 
